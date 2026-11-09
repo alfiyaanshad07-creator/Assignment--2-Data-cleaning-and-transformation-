@@ -1,2 +1,7 @@
 # Assignment--2-Data-cleaning-and-transformation-
-Data cleaning
+Handling missing values  
+Correcting inconsistent data
+Removeing duplicate
+splitting ad merging data
+Number formating
+Conditonal formating
